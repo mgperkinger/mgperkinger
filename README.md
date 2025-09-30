@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💻 Manuel Piña Olivas
 
-<!--
-**mgperkinger/mgperkinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="justify"> 
+    I'm a full-stack web developer with a passion for crafting interactive web applications. Additionally, I have hands-on experience in automatization, embedded software, and robotics development (ROS mostly). A quick learner, I'm dedicated to expanding my skills and thrive in collaborative                environments. Excited to contribute to creating exceptional applications with a focus on both web, mobile and industrial platforms.<br/>
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Mechatronics Engineer sharing about my journey and learnings in tech.<br/>
+🎓 Studied [Mechatronics Engineering](https://www.uacj.mx/oferta/programas.html?programa=44400&94) at UACJ, México.<br/>
+<!-- 🛡️ Currently learning Cybersecurity.<br/> -->
+<!-- 💾 Software Engineer.<br/> -->
+🌐 Full-Stack Developer.<br/>
+🤖 Robotics Developer.<br/>
+📟 Embedded Software. <br/>
